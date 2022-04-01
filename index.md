@@ -2,6 +2,14 @@
 
 This [Castanea sativa](https://carolxgl.github.io/TreeLibrary/CastaneaSativa.html) 
 
+### Small image
+
+![Castanea](https://github.com/carolxgl/TreeLibrary/blob/gh-pages/images/Cassat_icon.png)
+
+### Large image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
