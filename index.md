@@ -2,7 +2,7 @@
 
 This [Castanea sativa](https://carolxgl.github.io/TreeLibrary/CastaneaSativa.html) 
 
-![Castanea](https://github.com/carolxgl/TreeLibrary/blob/gh-pages/images/Cassat_icon.png)
+![Castanea](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/Cassat_icon.png)
 
 ### Large image
 
