@@ -5,4 +5,4 @@ The Rengerspark was created in xxxx as part of xxx. Its inhabitants are mostly t
 
 [![Castanea](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/cassat_icon.png)](https://carolxgl.github.io/TreeLibrary/CastaneaSativa.html)
 
-[![Koeulteria](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/koepan_icon.png)](https://carolxgl.github.io/TreeLibrary/KoeulteriaPaniculata.html)
+[![Koeulteria](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/Koepan_icon.png)](https://carolxgl.github.io/TreeLibrary/KoeulteriaPaniculata.html)
