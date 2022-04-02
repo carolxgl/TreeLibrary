@@ -1,14 +1,9 @@
 ## Welcome to the Rengerpark tree library
 
-[![Castanea][2]][1]
+![![Castanea][https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/cassat_icon.png]][https://carolxgl.github.io/TreeLibrary/CastaneaSativa.html]
 
 
 
-
-
-
-[1]https://carolxgl.github.io/TreeLibrary/CastaneaSativa.html
-[2]https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/cassat_icon.png
 
 
 ### Large image
