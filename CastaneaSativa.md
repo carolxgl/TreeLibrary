@@ -18,7 +18,7 @@ The _tame kastanje_ is specially famous during Christmas time for its roasted ch
 - Food
 - Medicinal
 
-![Castanea sativa](https://github.com/carolxgl/TreeLibrary/blob/gh-pages/images/Cassat2650.png?raw=true)
+![Castanea sativa](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/Cassat2650.png?raw=true)
 
 References and more information at:
 
