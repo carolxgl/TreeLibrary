@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.site-title::before {
+	content: url("https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/assets/img/buho.png");
+	display: inline-block;
+	position: relative;
+	width: 32px;
+	top: 32px;
+}
