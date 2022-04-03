@@ -10,7 +10,7 @@ __Common name:__ zomereik (NL), iik (Fryske), English oak (EN)
 
 **Conservation:** [Least concern (IUCN, last assessed 2017)](https://www.iucnredlist.org/species/63532/3126467)
 
-These tree species can live more than 1000 years, most of the times it only starts producing seeds when it has reached 50 years of age. The _zomereik_ flowers in May and, by October the acorns are ripen and ready to be eaten and dispersed by rodents, birds and sometimes trough water.
+This tree species can live more than 1000 years and most of the times it only starts producing seeds when it has reached 50 years of age. The _zomereik_ flowers in May and, by October the acorns are ripen and ready to be eaten and dispersed by rodents, birds and sometimes trough water.
 
 
 __USES:__
