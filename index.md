@@ -9,7 +9,9 @@ The Rengerspark was created in xxxx as part of xxx. Its inhabitants are mostly t
 
 [![Koeulteria](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/Koepan_icon.png)](https://carolxgl.github.io/TreeLibrary/KoeulteriaPaniculata.html)
 
-[![Koeulteria](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/Quecer_icon.png)](https://carolxgl.github.io/TreeLibrary/QuercusCerris.html)
+[![Quercus cerris](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/Quecer_icon.png)](https://carolxgl.github.io/TreeLibrary/QuercusCerris.html)
 
-[![Koeulteria](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/Querob_icon.png)](https://carolxgl.github.io/TreeLibrary/QuercusRobur.html)
+[![Quercus robur](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/Querob_icon.png)](https://carolxgl.github.io/TreeLibrary/QuercusRobur.html)
+
+[![Acer pseudoplatanus](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/Querob_icon.png)](https://carolxgl.github.io/TreeLibrary/AcerPseudoLeop.html)
 
