@@ -13,5 +13,5 @@ The Rengerspark was created in xxxx as part of xxx. Its inhabitants are mostly t
 
 [![Quercus robur](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/Querob_icon.png)](https://carolxgl.github.io/TreeLibrary/QuercusRobur.html)
 
-[![Acer pseudoplatanus](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/Querob_icon.png)](https://carolxgl.github.io/TreeLibrary/AcerPseudoLeop.html)
+[![Acer pseudoplatanus](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/AcerPseudo_icon.png)](https://carolxgl.github.io/TreeLibrary/AcerPseudoLeop.html)
 
