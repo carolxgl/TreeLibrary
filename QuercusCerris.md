@@ -1,4 +1,4 @@
-**Common name:** moseik (NL), moasiik (Fryske), Turkey oak (EN)
+**Common name:** moseik (NL), mosaiik (Fryske), Turkey oak (EN)
 
 
 <!--more-->
