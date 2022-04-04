@@ -21,6 +21,10 @@ The Bark:
 
 ![Acer pseudoplatanus](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/AcePseLeo_B.jpeg?raw=true)
 
+Some seeds
+
+![Acer pseudoplatanus](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/AcePse_seed.jpeg?raw=true)
+
 References and more information at:
 
 [Plants for a future](https://pfaf.org/user/plant.aspx?latinname=Acer+pseudoplatanus)
@@ -28,3 +32,5 @@ References and more information at:
 [European Atlas of Forest Species](https://ies-ows.jrc.ec.europa.eu/efdac/download/Atlas/pdf/Acer_pseudoplatanus.pdf)
 
 [Plants of the World (Kew Botanical Garden)](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:781462-1)
+
+[Back to the main page](https://carolxgl.github.io/TreeLibrary/)
