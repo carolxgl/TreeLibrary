@@ -1,5 +1,10 @@
 ## Welcome to the Rengerpark tree library
-The Rengerspark was open to the public in 1908, and was part of a land donated by mr. W.J. van Welderen baron Rengers, former mayor (1877-1883) of Leeuwarden and his wife, and layout according to the design proposed by H. Copijn. The park is home of more than 50 species of trees from all over the world that are accompanied, in the center of the pond, by a child with a little bird, a work from the artist Maria van Everdingen (1965). The trees share the space with (mostly) shrubs and birds, that coexist as a living library!. 
+
+![Entrance](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/entrance.jpeg)
+
+Located in the Northeast part of Leeuwarden, The Rengerspark was opened to the public in 1908, and was part of a land donated by mr. W.J. van Welderen baron Rengers, former mayor (1877-1883) of Leeuwarden and his wife. The park was built according to the design provided by H. Copijn. The Rengerspark is home to more than 50 species of trees from all over the world that are accompanied, in the center of the pond, by a child with a little bird, a work from the artist Maria van Everdingen (1965). The trees share the space with (mostly) shrubs and birds that coexist as a living library.
+
+![ChildBird](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/childBird.jpeg)
 
 __As part of the Biodiversity Festival 2022 at Campus Fryslan, University of Groningen, we invite you to rediscover the park, enjoy nature and learn more about its amazing secrets and TREEasures!__
 
