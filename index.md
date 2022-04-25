@@ -10,7 +10,7 @@ __As part of the Biodiversity Festival 2022 at Campus Fryslan, University of Gro
 
 ![MapPark](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/mappark.png)
 
-You can find a map following clicking [HERE](https://carolxgl.github.io/TreeLibrary/Map.html)
+You can find a map of the park clicking [HERE](https://carolxgl.github.io/TreeLibrary/Map.html)
 ### Click on the icons to find out more facts about the trees! 
 
 [![Castanea](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/cassat_icon.png)](https://carolxgl.github.io/TreeLibrary/CastaneaSativa.html)
