@@ -25,7 +25,7 @@ The tree looks like this in winter
 
 and the bark...
 
-![Tilia x europaea bark](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/TilEur_B.jpeg)
+![Tilia x europaea bark](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/Tileur_B.jpeg)
 
 References and more information about the _zomereik_ can be found at:
 
