@@ -20,15 +20,15 @@ The _ruwe berk_ has multiple uses in the kitchen, medicine and timber. It has be
 
 The tree looks like this in winter
 
-![Betula pendula](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/Querob.jpeg)
+![Betula pendula](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/Betpen_tree.jpeg)
 
 and the bark...
 
-![Betula pendula bark](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:295174-1)
+![Betula pendula bark](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/Betpen_bark.jpeg)
 
 References and more information about the _zomereik_ can be found at:
 
-[Plants of the World (Kew Botanical Garden)](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:304293-2)
+[Plants of the World (Kew Botanical Garden)](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:295174-1)
 
 [European Atlas of Forest Species](https://forest.jrc.ec.europa.eu/media/atlas/Betula_spp.pdf)  
 
