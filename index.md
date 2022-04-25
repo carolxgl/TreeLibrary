@@ -24,3 +24,42 @@ __As part of the Biodiversity Festival 2022 at Campus Fryslan, University of Gro
 
 [![Betula pendula](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/betpen_ic.png)](https://carolxgl.github.io/TreeLibrary/BetulaPendula.html)
 
+[![Tilia x europea](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/tileur_icon.png)](https://carolxgl.github.io/TreeLibrary/TiliaxEuropea.html)
+
+[![Fraxinus excelsior](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/fraexc_icon.png)](https://carolxgl.github.io/TreeLibrary/FraxinusExcelsior.html)
+
+[![Ulmus glabra](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/ulmgla_icon.png)](https://carolxgl.github.io/TreeLibrary/UlmusGlabra.html)
+
+[![Quercus palustris](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/quepal_icon.png)](https://carolxgl.github.io/TreeLibrary/QuercusPalustris.html)
+
+[![Quercus robur](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/querob_icon.png)](https://carolxgl.github.io/TreeLibrary/QuercusRobur.html)
+
+[![Fraxinus excelsior](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/fraexc_icon.png)](https://carolxgl.github.io/TreeLibrary/FraxinusExcelsior.html)
+
+[![Ginkgo biloba](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/ginbil_icon.png)](https://carolxgl.github.io/TreeLibrary/GinkgoBiloba.html)
+
+[![Liriodendron tulipifera](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/lirtul_icon.png)](https://carolxgl.github.io/TreeLibrary/LiriodendronTulipifera.html)
+
+[![Carpinus betulus](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/carbet_icon.png)](https://carolxgl.github.io/TreeLibrary/CarpinusBetulus.html)
+
+[![Populus lasiocarpa](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/populas_icon.png)](https://carolxgl.github.io/TreeLibrary/PopulusLasiocarpa.html)
+
+[![Pterocarya fraxinifolia](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/ptefra_icon.png)](https://carolxgl.github.io/TreeLibrary/PterocaryaFraxinifolia.html)
+
+[![Pterocarya fraxinifolia](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/ptefra_icon.png)](https://carolxgl.github.io/TreeLibrary/PterocaryaFraxinifolia.html)
+
+[![Magnolia kobus](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/magkob_icon.png)](https://carolxgl.github.io/TreeLibrary/MagnoliaKobus.html)
+
+[![Catalpa speciosa](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/catspe_icon.png)](https://carolxgl.github.io/TreeLibrary/CatalpaSpeciosa.html)
+
+[![Zelkova serrata](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/zelser_icon.png)](https://carolxgl.github.io/TreeLibrary/ZelkovaSerrata.html)
+
+[![Laburnum x watereri](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/labwat_icon.png)](https://carolxgl.github.io/TreeLibrary/LaburnumxWatereri.html)
+
+[![Metasequoia glytostroboides](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/metgly_icon.png)](https://carolxgl.github.io/TreeLibrary/MetasequoiaGlytostroboides.html)
+
+
+
+
+
+
