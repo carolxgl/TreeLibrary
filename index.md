@@ -22,3 +22,5 @@ __As part of the Biodiversity Festival 2022 at Campus Fryslan, University of Gro
 
 [![Acer pseudoplatanus](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/AcerPseudo_icon.png)](https://carolxgl.github.io/TreeLibrary/AcerPseudoLeop.html)
 
+[![Betula pendula](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/betpen_ic.png)](https://carolxgl.github.io/TreeLibrary/BetulaPendula.html)
+
