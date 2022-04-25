@@ -20,7 +20,7 @@ The _ruwe berk_ has multiple uses in the kitchen, medicine and timber. It has be
 
 The tree looks like this in winter
 
-![Betula pendula](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/Betpen_tree.jpeg)
+![Betula pendula](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/BetPen_tree.jpeg)
 
 and the bark...
 
