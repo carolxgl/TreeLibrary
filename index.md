@@ -37,7 +37,7 @@ You can find a map of the park clicking [HERE](https://carolxgl.github.io/TreeLi
 
 [![Fraxinus excelsior](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/fraexc_icon.png)](https://carolxgl.github.io/TreeLibrary/FraxinusExcelsior.html)
 
-[![Ginkgo biloba](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/ginbil_icon.png)](https://carolxgl.github.io/TreeLibrary/GinkgoBiloba.html)
+[![Ginkgo biloba](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/GinBil_icon.png)](https://carolxgl.github.io/TreeLibrary/GinkgoBiloba.html)
 
 [![Liriodendron tulipifera](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/lirtul_icon.png)](https://carolxgl.github.io/TreeLibrary/LiriodendronTulipifera.html)
 
