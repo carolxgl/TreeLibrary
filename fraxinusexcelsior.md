@@ -1,4 +1,4 @@
-There are two types of ash (cultivars) at the Rengerspark. _Fraxinus excelsior 'jaspidea'_ and _'diversifolia_ and in this page we will sumarize the characteristics of both varieties.
+There are two types of ash (cultivars) at the Rengerspark. _Fraxinus excelsior 'jaspidea'_ and _'diversifolia_ . In this page we will sumarize the characteristics of both cultivars.
 
 __Common name:__ _Jaspidea_ Gele es (NL), Golden Ash (EN), Giele esk (Fryske). _diversifolia_ éénbladig es (NL), One-leaved ash (EN), inkeldblêdige esk (Fryske)
 
