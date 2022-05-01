@@ -27,7 +27,7 @@ You can find a map of the park clicking [HERE](https://carolxgl.github.io/TreeLi
 
 [![Tilia x europea](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/tileur_icon.png)](https://carolxgl.github.io/TreeLibrary/TiliaxEuropea.html)
 
-[![Fraxinus excelsior](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/fraexc_icon.png)](https://carolxgl.github.io/TreeLibrary/FraxinusExcelsior.html)
+[![Fraxinus excelsior](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/fraexc_icon.png)](https://carolxgl.github.io/TreeLibrary/fraxinusexcelsior.html)
 
 [![Ulmus glabra](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/ulmgla_icon.png)](https://carolxgl.github.io/TreeLibrary/ulmusglabra.html)
 
