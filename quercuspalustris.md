@@ -1,22 +1,21 @@
-__Common name:__ zomereik (NL), iik (Fryske), English oak (EN)
+__Common name:__ moeraseik (NL), sompe-iik (Fryske), Pin oak (EN)
 
 <!--more-->
 
-**Native range:** Europe, Asia Minor and North Africa
+**Native range:** Native to the United States, introduced in Europe
 
 **Pollination:** wind
 
-**Seed dispersal:** rodents, birds, water
+**Seed dispersal:** wind
 
-**Conservation:** [Least concern (IUCN, last assessed 2017)](https://www.iucnredlist.org/species/63532/3126467)
+**Conservation:** [Least concern (IUCN, last assessed 2017)](https://www.iucnredlist.org/species/194215/111279508)
 
-This tree species can live more than 1000 years and most of the times it only starts producing seeds when it has reached 50 years of age. The _zomereik_ flowers in May and, by October the acorns are ripen and ready to be eaten and dispersed by rodents, birds and sometimes trough water.
+The _moeraseik_ is a tree commonly found near river streams. It grows fast, reaching up to 30 meters height. Flowers Between Aprial and May and the seeds ripen in October. 
 
 
 __USES:__
 
-
-This big tree (grows up to 40 m high), has been part of the English traditions for a long time, playing an important role in wedding and during christmas. Its wood was used for ships and to make wine barrels. Other uses include, food for livestock and dyeing.
+Its wood has many knots and for that reason is not used for furniture, but it is often used for railways and fire. It is an important source of food for migrating species and has a number of medicinal uses. 
 
 
 The tree looks like this in winter
@@ -29,10 +28,10 @@ and the bark...
 
 References and more information about the _zomereik_ can be found at:
 
-[Plants of the World (Kew Botanical Garden)](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:304293-2)
+[Plants of the World (Kew Botanical Garden)](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:359933-1)
 
-[European Atlas of Forest Species](https://ies-ows.jrc.ec.europa.eu/efdac/download/Atlas/pdf/Quercus_robur_petraea.pdf)  
+[European Atlas of Forest Species](https://ies-ows.jrc.ec.europa.eu/efdac/download/Atlas/pdf/Quercus_palustris.pdf)  
 
-[Plants for a future](https://pfaf.org/user/Plant.aspx?LatinName=Quercus+robur)
+[Plants for a future](https://pfaf.org/user/Plant.aspx?LatinName=Quercus+palustris)
 
 [Back to the main page](https://carolxgl.github.io/TreeLibrary/)
