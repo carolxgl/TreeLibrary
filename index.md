@@ -31,7 +31,7 @@ You can find a map of the park clicking [HERE](https://carolxgl.github.io/TreeLi
 
 [![Ulmus glabra](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/ulmgla_icon.png)](https://carolxgl.github.io/TreeLibrary/ulmusglabra.html)
 
-[![Quercus palustris](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/quepal_icon.png)](https://carolxgl.github.io/TreeLibrary/QuercusPalustris.html)
+[![Quercus palustris](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/quepal_icon.png)](https://carolxgl.github.io/TreeLibrary/quercuspalustris.html)
 
 [![Quercus robur](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/querob_icon.png)](https://carolxgl.github.io/TreeLibrary/QuercusRobur.html)
 
