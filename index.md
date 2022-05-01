@@ -33,11 +33,7 @@ You can find a map of the park clicking [HERE](https://carolxgl.github.io/TreeLi
 
 [![Quercus palustris](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/quepal_icon.png)](https://carolxgl.github.io/TreeLibrary/quercuspalustris.html)
 
-[![Quercus robur](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/querob_icon.png)](https://carolxgl.github.io/TreeLibrary/QuercusRobur.html)
-
-[![Fraxinus excelsior](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/fraexc_icon.png)](https://carolxgl.github.io/TreeLibrary/fraxinusexcelsior.html)
-
-[![Ginkgo biloba](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/GinBil_icon.png)](https://carolxgl.github.io/TreeLibrary/GinkgoBiloba.html)
+[![Ginkgo biloba](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/GinBil_icon.png)](https://carolxgl.github.io/TreeLibrary/ginkgobiloba.html)
 
 [![Liriodendron tulipifera](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/lirtul_icon.png)](https://carolxgl.github.io/TreeLibrary/LiriodendronTulipifera.html)
 
