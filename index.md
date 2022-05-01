@@ -29,13 +29,13 @@ You can find a map of the park clicking [HERE](https://carolxgl.github.io/TreeLi
 
 [![Fraxinus excelsior](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/fraexc_icon.png)](https://carolxgl.github.io/TreeLibrary/FraxinusExcelsior.html)
 
-[![Ulmus glabra](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/ulmgla_icon.png)](https://carolxgl.github.io/TreeLibrary/UlmusGlabra.html)
+[![Ulmus glabra](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/ulmgla_icon.png)](https://carolxgl.github.io/TreeLibrary/ulmusglabra.html)
 
 [![Quercus palustris](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/quepal_icon.png)](https://carolxgl.github.io/TreeLibrary/QuercusPalustris.html)
 
 [![Quercus robur](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/querob_icon.png)](https://carolxgl.github.io/TreeLibrary/QuercusRobur.html)
 
-[![Fraxinus excelsior](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/fraexc_icon.png)](https://carolxgl.github.io/TreeLibrary/FraxinusExcelsior.html)
+[![Fraxinus excelsior](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/fraexc_icon.png)](https://carolxgl.github.io/TreeLibrary/fraxinusexcelsior.html)
 
 [![Ginkgo biloba](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/GinBil_icon.png)](https://carolxgl.github.io/TreeLibrary/GinkgoBiloba.html)
 
