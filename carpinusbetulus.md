@@ -1,36 +1,40 @@
-**Common name:** gevlekte gewone esdoorn (NL), bûnte eskdoarn (Fryske), Sycamore Maple (EN)
+**Common name:** gevlekte haagbeuk (NL), haachboek (Fryske), Common Hornbeam (EN)
 
 
 <!--more-->
-**Native range:**  Northern and central Europe and western Asia
+**Native range:**  Pyrenes to southern Sweeden and Iran
 
-**Pollination:** Bees
+**Pollination:** Wind
 
 **Seed dspersal:** Wind
 
-**Conservation:** [Least concern (IUCN, last assessed 2017)](https://www.iucnredlist.org/species/193856/125923004)
+**Conservation:** [Least concern (IUCN, last assessed 2014)](https://www.iucnredlist.org/species/194274/2308255)
 
-The _gevlekte gewone esdoorn_ is a variety of _Acer pseudoplatanus_, specifically named _Acer pseudoplatanus "Leopoldii"_. This tree is grows very fast but has a long life (350-400 years). It has big crown that sometimes grows even larger than the height of the tree. Flowers from April to June and the seeds are rready to be dispersed between September to October.
+The _gevlekte haagbeuk_, located next to the lake at our park, is characterized for its brown leaves during winter which are replace by new leaves at the begining of spring. The tree flowers from April to May, and the seeds ripen in November. It is know for its hard wood which is the reason for its name "horn". 
 
+__USES__
+
+- Medicinal
+- Dye
 - Wood
-- Fire
+- Fuel
+- Hedges
 
-![Acer pseudoplatanus](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/AcePseLeo.jpeg?raw=true)
+This is how the tree looks in winter
+
+![carpinus](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/carbet.jpeg?raw=true)
 
 The Bark:
 
-![Acer pseudoplatanus](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/AcePseLeo_B.jpeg?raw=true)
+![carpinus](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/carbetB.jpeg?raw=true)
 
-Some seeds
-
-![Acer pseudoplatanus](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/AcePse_seed.jpeg?raw=true)
 
 References and more information at:
 
-[Plants for a future](https://pfaf.org/user/plant.aspx?latinname=Acer+pseudoplatanus)
+[Plants for a future](https://pfaf.org/user/Plant.aspx?LatinName=Carpinus+betulus)
 
-[European Atlas of Forest Species](https://ies-ows.jrc.ec.europa.eu/efdac/download/Atlas/pdf/Acer_pseudoplatanus.pdf)
+[European Atlas of Forest Species](https://ies-ows.jrc.ec.europa.eu/efdac/download/Atlas/pdf/Carpinus_betulus.pdf)
 
-[Plants of the World (Kew Botanical Garden)](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:781462-1)
+[Plants of the World (Kew Botanical Garden)](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:295248-1)
 
 [Back to the main page](https://carolxgl.github.io/TreeLibrary/)
