@@ -37,7 +37,7 @@ You can find a map of the park clicking [HERE](https://carolxgl.github.io/TreeLi
 
 [![Liriodendron tulipifera](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/lirtul_icon.png)](https://carolxgl.github.io/TreeLibrary/liriodendrontulipifera.html)
 
-[![Carpinus betulus](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/carbet_icon.png)](https://carolxgl.github.io/TreeLibrary/CarpinusBetulus.html)
+[![Carpinus betulus](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/carbet_icon.png)](https://carolxgl.github.io/TreeLibrary/carpinusbetulus.html)
 
 [![Populus lasiocarpa](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/poplas_icon.png)](https://carolxgl.github.io/TreeLibrary/PopulusLasiocarpa.html)
 
