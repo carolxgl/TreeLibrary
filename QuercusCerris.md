@@ -22,9 +22,11 @@ The _moseik_ is a fast growing tree that reaches up to 40 m tall and can live up
 - Tinture
 - Medicinal
 
+This is how the tree looks in winter
+
 ![](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/Quecer.jpeg)
 
-The bark...
+And the bark...
 
 ![](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/QuecerB.jpeg)
 
