@@ -20,11 +20,11 @@ Its wood has many knots and for that reason is not used for furniture, but it is
 
 The tree looks like this in winter
 
-![Quercus robur](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/Querob.jpeg)
+![Quercus palustris](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/Quepal.jpeg)
 
 and the bark...
 
-![Quercus robur bark](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/Querob_B.jpeg)
+![Quercus palustris bark](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/QuepalB.jpeg)
 
 References and more information about the _zomereik_ can be found at:
 
