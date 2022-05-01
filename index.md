@@ -1,4 +1,4 @@
-## Welcome to the Rengerpark tree library
+## Welcome to the Rengerspark tree library
 
 ![Entrance](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/entrance.jpeg)
 
