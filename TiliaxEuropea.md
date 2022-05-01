@@ -14,15 +14,15 @@ The _hollandse linde_ is a hybrid species that results from _Tilia cordata_ and 
 
 __USES:__
 
-This tree species is used to enrich soils, as it can grow under stressful conditions. The _hollandse linde_ has additional medicinal uses as expectorant and diuretic.  
+This tree species is used to enrich soils, as it can grow under stressful conditions. The young leaves of the hollandse linde are use in drinks, while the seeds are use as a substitute of chocolate. The _hollandse linde_ has additional medicinal uses as expectorant and diuretic.  
 
 The tree looks like this in winter
 
-![Tilia x europaea](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/Querob.jpeg)
+![Tilia x europaea](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/TilEur.jpeg)
 
 and the bark...
 
-![Tilia europaea bark](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/Querob_B.jpeg)
+![Tilia europaea bark](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/TileurB.jpeg)
 
 References and more information about the _hollandse linde_ can be found at:
 
