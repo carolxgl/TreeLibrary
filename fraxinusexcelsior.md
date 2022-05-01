@@ -22,11 +22,11 @@ The common ash is not only widely use for its timber, but also has multiple medi
 
 The tree looks like this in winter
 
-![Fraxinus excelsior](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/fraexc.jpeg)
+![Fraxinus excelsior](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/fraexcB.jpeg)
 
 and the bark...
 
-![Fraxinus excelsior bark](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/fraexcB.jpeg)
+![Fraxinus excelsior bark](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/fraexc.jpeg)
 
 References and more information about the _zomereik_ can be found at:
 
