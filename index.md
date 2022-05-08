@@ -43,7 +43,7 @@ You can find a map of the park clicking [HERE](https://carolxgl.github.io/TreeLi
 
 [![Pterocarya fraxinifolia](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/ptefra_icon.png)](https://carolxgl.github.io/TreeLibrary/pterocaryafraxinifolia.html)
 
-[![Magnolia kobus](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/magkob_icon.png)](https://carolxgl.github.io/TreeLibrary/MagnoliaKobus.html)
+[![Magnolia kobus](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/magkob_icon.png)](https://carolxgl.github.io/TreeLibrary/magnoliakobus.html)
 
 [![Catalpa speciosa](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/catspe_icon.png)](https://carolxgl.github.io/TreeLibrary/CatalpaSpeciosa.html)
 
