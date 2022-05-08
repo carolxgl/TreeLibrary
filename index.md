@@ -49,9 +49,9 @@ You can find a map of the park clicking [HERE](https://carolxgl.github.io/TreeLi
 
 [![Zelkova serrata](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/zelser_icon.png)](https://carolxgl.github.io/TreeLibrary/ZelkovaSerrata.html)
 
-[![Laburnum x watereri](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/labwat_icon.png)](https://carolxgl.github.io/TreeLibrary/LaburnumxWatereri.html)
+[![Laburnum x watereri](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/labwat_icon.png)](https://carolxgl.github.io/TreeLibrary/laburnumxwatereri.html)
 
-[![Metasequoia glytostroboides](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/metgly_icon.png)](https://carolxgl.github.io/TreeLibrary/MetasequoiaGlytostroboides.html)
+[![Metasequoia glytostroboides](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/metgly_icon.png)](https://carolxgl.github.io/TreeLibrary/metasequoiaglytostroboides.html)
 
 
 [Back to the main page](https://carolxgl.github.io/TreeLibrary/)
