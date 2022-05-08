@@ -41,7 +41,7 @@ You can find a map of the park clicking [HERE](https://carolxgl.github.io/TreeLi
 
 [![Populus lasiocarpa](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/poplas_icon.png)](https://carolxgl.github.io/TreeLibrary/Populuslasiocarpa.html)
 
-[![Pterocarya fraxinifolia](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/ptefra_icon.png)](https://carolxgl.github.io/TreeLibrary/PterocaryaFraxinifolia.html)
+[![Pterocarya fraxinifolia](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/ptefra_icon.png)](https://carolxgl.github.io/TreeLibrary/pterocaryafraxinifolia.html)
 
 [![Magnolia kobus](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/magkob_icon.png)](https://carolxgl.github.io/TreeLibrary/MagnoliaKobus.html)
 
