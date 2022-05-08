@@ -18,13 +18,13 @@ __USES:__
 Its wood has many knots and for that reason is not used for furniture, but it is often used for railways and fire. It is an important source of food for migrating species and has a number of medicinal uses. 
 
 
-The tree looks like this in winter
+The tree looks like this in spring
 
-![Quercus palustris](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/Quepal.jpeg)
+![Quercus palustris](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/quepalB.jpeg)
 
-and the bark...
+and the leaves...
 
-![Quercus palustris bark](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/QuepalB.jpeg)
+![Quercus palustris bark](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/quepal_L.jpeg)
 
 References and more information about the _zomereik_ can be found at:
 
