@@ -53,6 +53,8 @@ You can find a map of the park clicking [HERE](https://carolxgl.github.io/TreeLi
 
 [![Metasequoia glyptostroboides](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/metgly_icon.png)](https://carolxgl.github.io/TreeLibrary/metasequoiaglyptostroboides.html)
 
+[![Metasequoia glyptostroboides](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/metgly_icon.png)](https://carolxgl.github.io/TreeLibrary/metasequoiaglyptostroboides.html)
+
 
 [Back to the main page](https://carolxgl.github.io/TreeLibrary/)
 
