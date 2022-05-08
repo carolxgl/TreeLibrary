@@ -33,6 +33,6 @@ References and more information at:
 
 [Plants of the World (Kew Botanical Garden)](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:332100-2)
 
-[Analysis of Magnolia kobus as potantial invasive species in Canada](https://quod.lib.umich.edu/cgi/p/pod/dod-idx/magnolia-kobus-a-study-of-the-popular-horticultural-species.pdf?c=mbot&format=pdf&idno=0497763.0058.104)
+[Analysis of Magnolia kobus as an invasive species in Canada](https://quod.lib.umich.edu/cgi/p/pod/dod-idx/magnolia-kobus-a-study-of-the-popular-horticultural-species.pdf?c=mbot&format=pdf&idno=0497763.0058.104)
 
 [Back to the main page](https://carolxgl.github.io/TreeLibrary/)
