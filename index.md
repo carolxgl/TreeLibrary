@@ -51,7 +51,7 @@ You can find a map of the park clicking [HERE](https://carolxgl.github.io/TreeLi
 
 [![Laburnum x watereri](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/labwat_icon.png)](https://carolxgl.github.io/TreeLibrary/laburnumxwatereri.html)
 
-[![Metasequoia glytostroboides](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/metgly_icon.png)](https://carolxgl.github.io/TreeLibrary/metasequoiaglytostroboides.html)
+[![Metasequoia glyptostroboides](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/metgly_icon.png)](https://carolxgl.github.io/TreeLibrary/metasequoiaglyptostroboides.html)
 
 
 [Back to the main page](https://carolxgl.github.io/TreeLibrary/)
