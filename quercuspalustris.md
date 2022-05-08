@@ -26,7 +26,7 @@ and the leaves...
 
 ![Quercus palustris bark](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/quepal_L.jpeg)
 
-References and more information about the _zomereik_ can be found at:
+References and more information about the _moeraseik_ can be found at:
 
 [Plants of the World (Kew Botanical Garden)](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:359933-1)
 
