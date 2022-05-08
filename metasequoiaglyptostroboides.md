@@ -18,7 +18,7 @@ __USES:__
 
 The tree looks like this in winter
 
-![metasequoia glyptostroboides](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/metgly.jpeg)
+![metasequoia glyptostroboides](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/metglyW.jpeg)
 
 the leaves...
 
