@@ -4,7 +4,7 @@
 <!--more-->
 **Native range:**  China and Eastern Asia
 
-**Pollination:** Wind
+**Pollination:** Bees, other insects
 
 **Seed dspersal:** Wind, gravity
 
