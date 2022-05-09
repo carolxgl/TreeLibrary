@@ -53,7 +53,7 @@ You can find a map of the park clicking [HERE](https://carolxgl.github.io/TreeLi
 
 [![Metasequoia glyptostroboides](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/metgly_icon.png)](https://carolxgl.github.io/TreeLibrary/metasequoiaglyptostroboides.html)
 
-[![Gleditsia triacanthos](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/gletri_icon.png)](https://carolxgl.github.io/TreeLibrary/gleditsiatriacanthos.html)
+[![Gleditsia triacanthos](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/gletri_icon.png)](https://carolxgl.github.io/TreeLibrary/gledisiatriacanthos.html)
 
 [![Taxus baccata](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/taxbac_icon.png)](https://carolxgl.github.io/TreeLibrary/taxusbaccata.html)
 
