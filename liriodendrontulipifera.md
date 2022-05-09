@@ -10,7 +10,7 @@
 
 **Conservation:** [Least concern (IUCN, last assessed 2017)](https://www.iucnredlist.org/species/194074/2296302)
 
-The _tupenboom_ is an important resource for wildlife and specially important for honey bees. It produces beautiful flowers between April to June and seeds that ripem between August and October, depending on the location. 
+The _tupenboom_ is an important resource for wildlife and specially important for honey bees. It produces beautiful flowers between April and June, and seeds that ripen between August and October, depending on the location. 
 
 **USES:**
 
