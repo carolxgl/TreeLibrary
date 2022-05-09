@@ -53,10 +53,45 @@ You can find a map of the park clicking [HERE](https://carolxgl.github.io/TreeLi
 
 [![Metasequoia glyptostroboides](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/metgly_icon.png)](https://carolxgl.github.io/TreeLibrary/metasequoiaglyptostroboides.html)
 
-[![Metasequoia glyptostroboides](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/metgly_icon.png)](https://carolxgl.github.io/TreeLibrary/metasequoiaglyptostroboides.html)
+[![Gleditsia triacanthos](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/gletri_icon.png)](https://carolxgl.github.io/TreeLibrary/gleditsiatriacanthos.html)
+
+[![Taxus baccata](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/taxbac_icon.png)](https://carolxgl.github.io/TreeLibrary/taxusbaccata.html)
+
+[![Platanus x hispanica](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/plahis_icon.png)](https://carolxgl.github.io/TreeLibrary/platanusxhispanica.html)
+
+[![Corylus colurna](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/corcol_icon.png)](https://carolxgl.github.io/TreeLibrary/coryluscolurna.html)
+
+[![Betula papyrifera](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/betpap_icon.png)](https://carolxgl.github.io/TreeLibrary/betulapapyrifera.html)
+
+[![Acer campestre](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/acecam_icon.png)](https://carolxgl.github.io/TreeLibrary/acercampestre.html)
+
+[![Liquidambar styraciflua](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/liqsty_icon.png)](https://carolxgl.github.io/TreeLibrary/liquidambarstyraciflua.html)
+
+[![Ailanthus altissima](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/ailalt_icon.png)](https://carolxgl.github.io/TreeLibrary/ailanthusaltissima.html)
+
+[![Fagus sylvatica 'Atropunicea'](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/fagsyl_icon.png)](https://carolxgl.github.io/TreeLibrary/fagussylvatica.html)
+
+[![Aesculus hippocastanum](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/aeship_icon.png)](https://carolxgl.github.io/TreeLibrary/aesculushippocastanum.html)
+
+[![Acer saccharinum](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/acesac_icon.png)](https://carolxgl.github.io/TreeLibrary/acersaccharinum.html)
+
+[![Ilex aquifolium](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/ileaqu_icon.png)](https://carolxgl.github.io/TreeLibrary/ilexaquifolium.html)
+
+[![Populus trichocarpa](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/poptri_icon.png)](https://carolxgl.github.io/TreeLibrary/populustrichocarpa.html)
+
+[![Aesculus hippocastanum](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/aeship_icon.png)](https://carolxgl.github.io/TreeLibrary/aesculushippocastanum.html)
+
+[![Gymnocladus dioica](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/gymdio_icon.png)](https://carolxgl.github.io/TreeLibrary/gymnocladusdioica.html)
+
+[![Salix x sepulcralis](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/salsep_icon.png)](https://carolxgl.github.io/TreeLibrary/salixxsepulcralis.html)
+
+[![Ulmus minor](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/ulmmin_icon.png)](https://carolxgl.github.io/TreeLibrary/ulmusminor.html)
+
+[![Prunus serrulata](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/pruser_icon.png)](https://carolxgl.github.io/TreeLibrary/prunusserrulata.html)
+
+[![Taxodium distichum](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/taxdis_icon.png)](https://carolxgl.github.io/TreeLibrary/taxodiumdistichum.html)
+
 
 
 [Back to the main page](https://carolxgl.github.io/TreeLibrary/)
-
-
 
