@@ -29,6 +29,10 @@ The nuts...
 
 ![Corylus colurna](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/corcolS.jpeg)
 
+The leaves...
+
+![Corylus colurna](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/corcolL.jpeg)
+
 References and more information at:
 
 [Plants for a future](https://pfaf.org/user/plant.aspx?LatinName=Corylus+colurna)
