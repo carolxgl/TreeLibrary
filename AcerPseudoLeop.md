@@ -10,7 +10,7 @@
 
 **Conservation:** [Least concern (IUCN, last assessed 2017)](https://www.iucnredlist.org/species/193856/125923004)
 
-The _gevlekte gewone esdoorn_ is a variety of _Acer pseudoplatanus_, specifically named _Acer pseudoplatanus "Leopoldii"_. This tree is grows very fast but has a long life (350-400 years). It has big crown that sometimes grows even larger than the height of the tree. Flowers from April to June and the seeds are rready to be dispersed between September to October.
+The _gevlekte gewone esdoorn_ is a variety of _Acer pseudoplatanus_, specifically named _Acer pseudoplatanus "Leopoldii"_. This tree grows very fast and has a long life (350-400 years). It has big crown that sometimes grows even larger than the height of the tree. Flowers from April to June and the seeds are ready to be dispersed between September and October.
 
 - Wood
 - Fire
