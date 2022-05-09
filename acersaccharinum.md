@@ -21,7 +21,9 @@ The scientific name of the _zilveresdoorn_ reflects the characteritic high level
 - Syrup
 - Medicinal
 
-![Acer saccharinum](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/acesac.jpeg)
+The leaves... 
+
+![Acer saccharinum](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/acesacL.jpeg)
 
 The bark...
 
