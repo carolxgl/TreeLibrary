@@ -29,7 +29,7 @@ The bark...
 
 The leaves...
 
-![Ilex aquifolium](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/poptriL.jpeg)
+![Populus trichocarpa](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/poptriL.jpeg)
 
 References and more information at:
 
