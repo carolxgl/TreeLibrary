@@ -30,8 +30,8 @@ The leaves...
 
 References and more information at:
 
-[Plants for a future](https://pfaf.org/user/plant.aspx?LatinName=Taxus+baccata)
+[Plants for a future](https://pfaf.org/user/Plant.aspx?LatinName=Ailanthus+altissima)
 
-[Plants of the World (Kew Botanical Garden)](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:306036-2)
+[Plants of the World (Kew Botanical Garden)](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77227884-1)
 
 [Back to the main page](https://carolxgl.github.io/TreeLibrary/)
