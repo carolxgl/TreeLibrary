@@ -12,7 +12,6 @@ __Common name:__ Chineese moerascipres (NL), Sjineeske sompesipres (Fryske), Daw
 
 The unique _Chineese moerascipres_ is characterized for its height, it grows up to 30 meters in 50 years. It was first discovered as a fossil in several parts of the world, and only in 1945 it was discovered alive in a small forest patch in China. Some of the seeds of the trees in that forest were collected and distributed in Arboretums around the world to prevent its extinction and observe its adaptability to varying conditions.
 
-__USES:__
 
 
 
@@ -28,7 +27,7 @@ and the bark...
 
 ![metasequoia glyptostroboides bark](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/metglyB.jpeg)
 
-References and more information about the _moeraseik_ can be found at:
+References and more information at:
 
 [Plants of the World (Kew Botanical Garden)](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:828387-1)
 
