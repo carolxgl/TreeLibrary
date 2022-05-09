@@ -10,9 +10,9 @@
 
 **Conservation:** [Least concern (IUCN, last assessed 2014)](https://www.iucnredlist.org/species/194274/2308255)
 
-The _gevlekte haagbeuk_, located next to the lake at our park, is characterized for its brown leaves during winter which are replace by new leaves at the begining of spring. The tree flowers from April to May, and the seeds ripen in November. It is know for its hard wood which is the reason for its name "horn". 
+The _gevlekte haagbeuk_, located next to the lake at our park, is characterized for its brown leaves during winter which are replaced by new leaves at the begining of spring. The tree flowers from April to May, and the seeds ripen in November. It is known for its hard wood which is the reason for its name "horn". 
 
-__USES__
+__USES:__
 
 - Medicinal
 - Dye
