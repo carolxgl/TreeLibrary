@@ -79,8 +79,6 @@ You can find a map of the park clicking [HERE](https://carolxgl.github.io/TreeLi
 
 [![Populus trichocarpa](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/poptri_icon.png)](https://carolxgl.github.io/TreeLibrary/populustrichocarpa.html)
 
-[![Aesculus hippocastanum](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/aeship_icon.png)](https://carolxgl.github.io/TreeLibrary/aesculushippocastanum.html)
-
 [![Gymnocladus dioica](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/gymdio_icon.png)](https://carolxgl.github.io/TreeLibrary/gymnocladusdioica.html)
 
 [![Salix x sepulcralis](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/salsep_icon.png)](https://carolxgl.github.io/TreeLibrary/salixxsepulcralis.html)
