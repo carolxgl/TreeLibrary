@@ -10,7 +10,7 @@ __Common name:__ ruwe berk (NL) blanke bjirk (Fryske) Silver Birch (EN)
 
 **Conservation:** [Least concern (IUCN, last assessed 2014)](https://www.iucnredlist.org/species/62535/3115662)
 
-The _ruwe berk_, a broadleaved tree found mostly in Northern Europe, is an important species used in forest regeneration. Its importance is centered around its ability to grow fast, improve soil conditions and protect young plants from the cold. The flowers of this tree species appear in April and the fruits are ready to ripe in August.
+The _ruwe berk_, a broadleaved tree found mostly in Northern Europe, is an important species used in forest regeneration. Its importance is centered around its ability to grow fast, improve soil conditions and protect young plants from the cold. The flowers of this tree appear in April and the fruits are ready to ripe in August.
 
 
 __USES:__
@@ -26,7 +26,7 @@ and the bark...
 
 ![Betula pendula bark](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/Betpen_bark.jpeg)
 
-References and more information about the _zomereik_ can be found at:
+References and more information can be found at:
 
 [Plants of the World (Kew Botanical Garden)](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:295174-1)
 
