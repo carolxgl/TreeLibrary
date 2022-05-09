@@ -10,7 +10,7 @@
 
 **Conservation:** [Vulnerable (IUCN, last assessed 2019)](https://www.iucnredlist.org/species/66815986/66816002) Population is decreasing.
 
-The _gewone of Kaukasische vleugelnoot_ is fast growing tree charactirized by its long catkins (clusters of flowers) that reach up to 50 cm long. It flowers in June, and the seeds ripen from October to December.
+The _gewone of Kaukasische vleugelnoot_ is a fast growing tree characterized by its long catkins (clusters of flowers) that reach up to 50 cm long. It flowers in June, and the seeds ripen from October to December.
 
 __USES:__
 - Seeds are edible
