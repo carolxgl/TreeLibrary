@@ -10,7 +10,7 @@ __Common name:__ trompetboom (NL), trompetbeam (Fryske) Northen Catalpa (EN)
 
 **Conservation:** [Least concern (IUCN, last assessed 2018)](https://www.iucnredlist.org/species/61985370/61985373)
 
-The _Northern catalpa's_ name comes from is derived from the Muscogee Native American tribe's name for the tree "kutuhlpa". This tree species has very large leaves and white flowers with distinctive yellow marks. I flowers between May to June, and the seeds ripen in October
+The _Northern catalpa's_ name is derived from the Muscogee Native American tribe's name for the tree "kutuhlpa". This tree species has very large leaves and white flowers with distinctive yellow marks. It flowers between May and June, and the seeds ripen in October
 
 
 __USES:__
@@ -26,7 +26,7 @@ and the bark...
 
 ![Catalpa speciosa](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/catspeB.jpeg)
 
-References and more information about the _zomereik_ can be found at:
+References and more information at:
 
 [Plants of the World (Kew Botanical Garden)](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77117561-1)
 
