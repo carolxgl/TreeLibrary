@@ -28,7 +28,7 @@ and the bark...
 
 ![Fraxinus excelsior bark](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/fraexc.jpeg)
 
-References and more information about the _zomereik_ can be found at:
+References and more information at:
 
 [Plants of the World (Kew Botanical Garden)](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:609009-1)
 
