@@ -75,8 +75,6 @@ You can find a map of the park clicking [HERE](https://carolxgl.github.io/TreeLi
 
 [![Populus trichocarpa](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/poptri_icon.png)](https://carolxgl.github.io/TreeLibrary/populustrichocarpa.html)
 
-[![Gymnocladus dioica](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/gymdio_icon.png)](https://carolxgl.github.io/TreeLibrary/gymnocladusdioica.html)
-
 [![Salix x sepulcralis](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/salsep_icon.png)](https://carolxgl.github.io/TreeLibrary/salixxsepulcralis.html)
 
 [![Ulmus minor](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/ulmmin_icon.png)](https://carolxgl.github.io/TreeLibrary/ulmusminor.html)
@@ -88,6 +86,8 @@ You can find a map of the park clicking [HERE](https://carolxgl.github.io/TreeLi
 [![Liquidambar styraciflua](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/liqsty_icon.png)](https://carolxgl.github.io/TreeLibrary/liquidambarstyraciflua.html)
 
 [![Ailanthus altissima](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/ailalt_icon.png)](https://carolxgl.github.io/TreeLibrary/ailanthusaltissima.html)
+
+[![Gymnocladus dioica](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/gymdio_icon.png)](https://carolxgl.github.io/TreeLibrary/gymnocladusdioica.html)
 
 [Back to the main page](https://carolxgl.github.io/TreeLibrary/)
 
