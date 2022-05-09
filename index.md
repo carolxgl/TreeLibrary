@@ -45,7 +45,7 @@ You can find a map of the park clicking [HERE](https://carolxgl.github.io/TreeLi
 
 [![Magnolia kobus](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/magkob_icon.png)](https://carolxgl.github.io/TreeLibrary/magnoliakobus.html)
 
-[![Catalpa speciosa](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/catspe_icon.png)](https://carolxgl.github.io/TreeLibrary/CatalpaSpeciosa.html)
+[![Catalpa speciosa](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/catspe_icon.png)](https://carolxgl.github.io/TreeLibrary/catalpaspeciosa.html)
 
 [![Zelkova serrata](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/zelser_icon.png)](https://carolxgl.github.io/TreeLibrary/zelkovaserrata.html)
 
