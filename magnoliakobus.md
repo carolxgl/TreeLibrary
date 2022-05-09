@@ -10,7 +10,7 @@
 
 **Conservation:** [Not enough data for the assessment (IUCN, last assessed 2014)](https://www.iucnredlist.org/species/193954/2292097)
 
-The _valse tulpenboom_ flowers early in spring. Individuals of this species take about 15 years to flower for the first time. The _valse tulpenboom_ is protected from inscet and pest attacks, as it contains antimicrobial and insecticidal substances including kobusin and sesamin. 
+The _valse tulpenboom_ flowers early in spring. Individuals of this species take about 15 years to flower for the first time. The _valse tulpenboom_ is protected from insect and pest attacks, as it contains antimicrobial and insecticidal substances like kobusin and sesamin. 
 
 
 __USES:__
