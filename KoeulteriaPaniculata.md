@@ -10,7 +10,7 @@
 
 **Conservation:** [Least concern (IUCN, last assessed 2018)](https://www.iucnredlist.org/species/18776387/147626783)
 
-The _lampionboom_ is an small (7 meters tall) ornamental tree with a very interesting set of common names, such as the pride of India or farolillos (Spain), this is due to its beautiful yellow flowers that appear in July and its seeds that ripen in September.
+The _lampionboom_ is a small (7 meters tall) ornamental tree with a very interesting set of common names, such as the pride of India or Farolillos (Spain), this is due to its beautiful yellow flowers that appear in July and its seeds that ripen in September.
 
 **USES:**
 
