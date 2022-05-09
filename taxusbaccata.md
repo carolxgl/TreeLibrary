@@ -10,7 +10,7 @@
 
 **Conservation:** [Least concern (IUCN, last assessed 2018)](https://www.iucnredlist.org/species/42546/117052436)
 
-The _venijnboom_ scientific name comes from the taxanes contained in all the parts of the tree (__highly poisnous__), which are shared with all the species from the genera _Taxus_, and have been investigated and used for its pharmaceutical properties. The tree is thought to live for hundreds of years, with some unique individuals in Britain that are thought to be 2000 years old.  
+The _venijnboom_ scientific name comes from the taxanes contained in all the parts of the tree (__highly poisonous__), which are shared with all the species from the genera _Taxus_, and have been investigated and used for its pharmaceutical properties. The tree is thought to live for hundreds of years, with some unique individuals in Britain that are thought to be 2000 years old.  
 
 It flowers from March to April, and the seeds ripen from September to November.
 
