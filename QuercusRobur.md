@@ -15,7 +15,6 @@ This tree species can live more than 1000 years and most of the times it only st
 
 __USES:__
 
-
 This big tree (grows up to 40 m high), has been part of the English traditions for a long time, playing an important role in wedding and during christmas. Its wood was used for ships and to make wine barrels. Other uses include, food for livestock and dyeing.
 
 
@@ -27,7 +26,7 @@ and the bark...
 
 ![Quercus robur bark](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/Querob_B.jpeg)
 
-References and more information about the _zomereik_ can be found at:
+References and more information can be found at:
 
 [Plants of the World (Kew Botanical Garden)](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:304293-2)
 
