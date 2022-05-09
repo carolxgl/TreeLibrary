@@ -21,11 +21,15 @@ The _balsempopulier_ is a big tree that grows up to 30 to 50 meters height. It f
 
 The leaves... 
 
-![Ilex aquifolium](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/ileaqu.jpeg)
+![Ilex aquifolium](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/poptri.jpeg)
 
 The bark...
 
-![Ilex aquifolium](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/ileaquB.jpeg)
+![Ilex aquifolium](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/poptriB.jpeg)
+
+The leaves...
+
+![Ilex aquifolium](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/poptriL.jpeg)
 
 References and more information at:
 
