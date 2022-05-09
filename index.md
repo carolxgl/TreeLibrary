@@ -65,10 +65,6 @@ You can find a map of the park clicking [HERE](https://carolxgl.github.io/TreeLi
 
 [![Acer campestre](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/acecam_icon.png)](https://carolxgl.github.io/TreeLibrary/acercampestre.html)
 
-[![Liquidambar styraciflua](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/liqsty_icon.png)](https://carolxgl.github.io/TreeLibrary/liquidambarstyraciflua.html)
-
-[![Ailanthus altissima](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/ailalt_icon.png)](https://carolxgl.github.io/TreeLibrary/ailanthusaltissima.html)
-
 [![Fagus sylvatica 'Atropunicea'](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/fagsyl_icon.png)](https://carolxgl.github.io/TreeLibrary/fagussylvatica.html)
 
 [![Aesculus hippocastanum](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/aeship_icon.png)](https://carolxgl.github.io/TreeLibrary/aesculushippocastanum.html)
@@ -89,7 +85,9 @@ You can find a map of the park clicking [HERE](https://carolxgl.github.io/TreeLi
 
 [![Taxodium distichum](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/taxdis_icon.png)](https://carolxgl.github.io/TreeLibrary/taxodiumdistichum.html)
 
+[![Liquidambar styraciflua](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/liqsty_icon.png)](https://carolxgl.github.io/TreeLibrary/liquidambarstyraciflua.html)
 
+[![Ailanthus altissima](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/ailalt_icon.png)](https://carolxgl.github.io/TreeLibrary/ailanthusaltissima.html)
 
 [Back to the main page](https://carolxgl.github.io/TreeLibrary/)
 
