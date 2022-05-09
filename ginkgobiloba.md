@@ -10,7 +10,7 @@ __Common name:__ Japanse notenboom (NL) Japanske nutebeam, Sjineeske tempelbeam 
 
 **Conservation:** [Endangered (IUCN, last assessed 1998)](https://www.iucnredlist.org/species/32353/9700472)
 
-The _Gikgo_ has been on earth since the time of dinosaurs. It is known as a lonely living fossil, as it is one of the oldest tree living species (350 million years) with all the species from the same genera are extinct. It has very disticntive rounded shaped leaves that change from green to a beautiful color yellow in autumm. 
+The _Ginkgo_ has been on earth since the time of dinosaurs. It is known as the lonely living fossil, as it is one of the oldest tree living species (350 million years) with all the species from the same genera extinct. It has very disticntive rounded shaped leaves that change from green to a beautiful color yellow in autumm. 
 
 
 __USES:__
@@ -26,7 +26,7 @@ and the bark...
 
 ![Ginkgo biloba bark](https://raw.githubusercontent.com/carolxgl/TreeLibrary/gh-pages/images/ginbilB.jpeg)
 
-References and more information about the _zomereik_ can be found at:
+References and more information at:
 
 [Plants of the World (Kew Botanical Garden)](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:262125-1)
 
